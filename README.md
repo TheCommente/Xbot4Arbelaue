@@ -37,8 +37,8 @@ Xbot/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/TheCommente/Xbot4Arbelaue.git
-   cd Xbot4Arbelaue
+   git clone https://github.com/TheCommente/Xbot4Me.git
+   cd Xbot4Me
    ```
 
 2. **Install dependencies**:
